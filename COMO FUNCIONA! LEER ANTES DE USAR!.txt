@@ -1,0 +1,9 @@
+1. Descargar las imágenes y csv de aca: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?resource=download
+
+2.  Una vez descargado, juntar todas las imágenes de HAM10000_part_1 y HAM10000_part_2 en una carpeta llamada HAM10000_images y ponerla en el root.
+Tambien poner el HAM10000_metadata.csv en el root. El resto de archivos se pueden eliminar.
+
+3. appv2.py es la api que usamos para la web.
+
+4. Correr la api
+
